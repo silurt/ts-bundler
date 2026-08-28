@@ -36,7 +36,7 @@
     "@types/resolve": "^1.17.1",
     "@types/sha.js": "^2.4.0",
     "hash.js": "^1.1.7",
-    "nodemon": "^2.0.4",
+    "nodemon": "^3.1.14",
     "resolve": "^1.17.0",
     "sha.js": "^2.4.11",
     "three": "^0.137.0",
@@ -44,7 +44,7 @@
   },
   "dependencies": {
     "find-node-modules": "^2.1.0",
-    "js-beautify": "^1.11.0",
+    "js-beautify": "^2.0.3",
     "require-resolve": "0.0.2",
     "rxjs": "^6.6.3",
     "tslib": "^2.0.0",
